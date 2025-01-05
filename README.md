@@ -4,9 +4,12 @@
 This project focuses on collecting, preprocessing, analyzing, and modeling data to predict real estate prices in Ho Chi Minh City. By leveraging data crawling, data integration, and machine learning techniques, we aim to provide insights and predictive capabilities for the housing market.
 
 ## Team Members
-- **22127202 Võ Hùng Khoa**
-- **21127273 Lương Minh Hiển**
-- **18127047 Lê Hoàng Long**
+| **STT** | **Họ và Tên**        | **MSSV**    |
+|---------|----------------------|-------------|
+| 1       | Võ Hùng Khoa        | 22127202    |
+| 2       | Lương Minh Hiển     | 21127273    |
+| 3       | Lê Hoàng Long       | 18127047    |
+
 
 ## Directory Structure
 
@@ -58,6 +61,11 @@ This project focuses on collecting, preprocessing, analyzing, and modeling data 
 
 ### Instructions
 1. Clone the repository.
+   ```bash
+   git clone https:https://github.com/KhoaUs/Intro_DS.git
+   cd Intro_DS
+   ```
+
 2. Open and run the notebooks in the following order:
    - `data_collection.ipynb`
    - `data_preprocessing.ipynb`
